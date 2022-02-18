@@ -1,0 +1,13 @@
+body {
+  background-color: #280c44;
+}
+
+.load-image {
+  display: flex;
+  justify-content: center;
+}
+
+.main-poster img {
+  width: 525px;
+  height: 742.5px;
+}
